@@ -1,2 +1,2 @@
 # Ultimate-Table-Pong
-3D Pong gae made with OpenGL
+3D Pong game made with OpenGL
